@@ -1,0 +1,16 @@
+{
+	"name": "nutjs-demo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --testTimeout=30000"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@nut-tree/nut-js": "^3.1.2",
+		"@nut-tree/template-matcher": "^2.0.0",
+		"jest": "^29.7.0"
+	}
+}
